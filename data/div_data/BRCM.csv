@@ -1,0 +1,25 @@
+Dividend Amount,Declared Date,Ex-Date,Dividend Type,Payable Date,Dividend Frequency,Record Date
+0.14,2015-11-17,2015-11-25,Regular Cash,2015-12-14,Quarter,2015-11-30
+0.14,2015-08-13,2015-08-26,Regular Cash,2015-09-14,Quarter,2015-08-28
+0.14,2015-05-12,2015-05-27,Regular Cash,2015-06-15,Quarter,2015-05-29
+0.14,2014-12-09,2015-02-11,Regular Cash,2015-03-02,Quarter,2015-02-13
+0.12,2014-11-19,2014-11-26,Return of Capital,2014-12-15,Quarter,2014-12-01
+0.12,2014-08-14,2014-08-27,Return of Capital,2014-09-15,Quarter,2014-08-29
+0.12,2014-05-13,2014-05-28,Return of Capital,2014-06-16,Quarter,2014-05-30
+0.12,2014-01-30,2014-02-12,Return of Capital,2014-03-03,Quarter,2014-02-14
+0.11,2013-11-13,2013-11-21,Return of Capital,2013-12-09,Quarter,2013-11-25
+0.11,2013-08-15,2013-08-28,Return of Capital,2013-09-16,Quarter,2013-08-30
+0.11,2013-05-14,2013-05-29,Return of Capital,2013-06-17,Quarter,2013-05-31
+0.11,2013-01-29,2013-02-13,Return of Capital,2013-03-04,Quarter,2013-02-15
+0.1,2012-11-07,2012-11-20,Regular Cash,2012-12-10,Quarter,2012-11-23
+0.1,2012-08-16,2012-08-29,Regular Cash,2012-09-17,Quarter,2012-08-31
+0.1,2012-05-15,2012-05-30,Regular Cash,2012-06-18,Quarter,2012-06-01
+0.1,2012-01-30,2012-02-15,Regular Cash,2012-03-05,Quarter,2012-02-17
+0.09,2011-11-09,2011-11-30,Return of Capital,2011-12-19,Quarter,2011-12-02
+0.09,2011-08-11,2011-08-24,Return of Capital,2011-09-12,Quarter,2011-08-26
+0.09,2011-05-05,2011-05-18,Return of Capital,2011-06-06,Quarter,2011-05-20
+0.09,2011-01-31,2011-02-16,Return of Capital,2011-03-07,Quarter,2011-02-18
+0.08,2010-11-11,2010-11-23,Return of Capital,2010-12-13,Quarter,2010-11-26
+0.08,2010-08-12,2010-08-25,Return of Capital,2010-09-13,Quarter,2010-08-27
+0.08,2010-05-20,2010-06-02,Return of Capital,2010-06-21,Quarter,2010-06-04
+0.08,2010-01-27,2010-02-17,Return of Capital,2010-03-08,Quarter,2010-02-19

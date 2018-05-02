@@ -1,0 +1,13 @@
+Dividend Amount,Declared Date,Ex-Date,Dividend Type,Payable Date,Dividend Frequency,Record Date
+0.52,2017-10-26,2017-12-14,Regular Cash,2017-12-28,Quarter,2017-12-15
+0.52,2017-07-26,2017-09-14,Regular Cash,2017-09-28,Quarter,2017-09-15
+0.52,2017-05-02,2017-06-14,Regular Cash,2017-06-29,Quarter,2017-06-16
+0.52,2017-02-07,2017-03-14,Regular Cash,2017-03-30,Quarter,2017-03-16
+0.47,2016-11-01,2016-12-13,Regular Cash,2016-12-29,Quarter,2016-12-15
+0.47,2016-07-25,2016-09-14,Regular Cash,2016-09-29,Quarter,2016-09-16
+0.47,2016-04-28,2016-06-14,Regular Cash,2016-06-29,Quarter,2016-06-16
+0.43,2016-02-02,2016-03-14,Regular Cash,2016-03-30,Quarter,2016-03-16
+0.43,2015-10-27,2015-12-14,Regular Cash,2015-12-30,Quarter,2015-12-16
+0.43,2015-07-28,2015-09-14,Regular Cash,2015-09-29,Quarter,2015-09-16
+0.43,2015-02-03,2015-06-12,Regular Cash,2015-06-29,Quarter,2015-06-16
+2.0,2012-12-10,2013-01-28,Stock Split,2013-01-25,None,2013-01-07
